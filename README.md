@@ -9,7 +9,7 @@
 
 ## INTRODUCTION
 
-This library contains a simple yet powerful and fast 16-BIT data validation check-value generator. 
+This library contains a simple yet fast and powerful 16-BIT data validation check-value generator. 
 
 To balance between speed and memory footprint, the library's CRC check-value generator utilizes a look-up table which is placed in Progmem spcae rather than within ordinary ram, and contains a single function for creating the said value (that is, no objects are instantiated).
 
@@ -43,7 +43,7 @@ All that's needed then is to include the library at the top of the sketch as fol
 
 With the library installed & included in the sketch, the following function is available (see the usage example for an actual implementation):
 
->Note that since no objects are instantiated, the library name needs to preceed the function name as shown below.
+>Note that, as no objects are instantiated, the library's name needs to preceed the function name as shown below.
 
 __CRC16::calc();__  
 Parameters:&nbsp;&nbsp;&nbsp;unsigned int  

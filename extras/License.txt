@@ -1,7 +1,7 @@
 /*************************************************************************
-* Title:    MCP3221 Driver (12-BIT Single Channel ADC with I2C Interface)
+* Title:    CRC16 (16-BIT Data Validation Check-Value Generator)
 * Author:   Nadav Matalon <nadav.matalon@gmail.com>
-* IDE:      Arduino (v1.6.12)
+* IDE:      Arduino (v1.6.13)
 **************************************************************************/
 
 The MIT License (MIT)
