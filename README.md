@@ -19,7 +19,7 @@ To balance between speed and memory footprint, the library's CRC check-value gen
 - **CRC16.cpp** - Library Compilation file.  
 - **/examples**   
   - **/CRC16_Usage.ino**  
-    - **CRC16_Usage.ino** - A simple sketch in which an actual implementation is illustrated.   
+    - **CRC16_Usage.ino** - A sketch showing how to implement the library in code.    
   - **/CRC16_Timing**  
     - **CRC16_Timing.ino** - A sketch which measures the average length of time (in uS) for generating a given sample size of check-values.  
 - **/extras**
